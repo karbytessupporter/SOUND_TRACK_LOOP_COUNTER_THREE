@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 03_JUNE_2025
+ * date: 14_JUNE_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -127,6 +127,7 @@ function get_menu_options() {
 	'constellation_by_jim_oliver_from_healing_music_project:_radiance_[released:_13january2004].mp3',
 	'deep_summer_spacetime_continuum_sound_13june2024.mp3',
         'diamond_(original_mix)_by_giada_released_2002_downloaded_by_karbytes_26march2025.mp3',
+        'drums_karbytes_05june2025.mp3',
         'drums_karbytes_08march2025.mp3',
         'eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp3',
         'elevenlabs_creator_voice_clone_karbytes_generated_text_to_speech_output_05aug2024.mp3',
@@ -135,6 +136,7 @@ function get_menu_options() {
 	'freewill_startalk_march2025_downloaded_by_karbytes_30march2025.mp3',
 	'guitar_karbytes_08march2025.mp3',
 	'guitar_karbytes_14april2025.mp3',
+	'guitar_karbytes_14june2025.mp3',
         'guitar_karbytes_29january2025.mp3',
         'healing_water_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
 	'horrors_of_a_withered_dimension_by_bloodstained_ground_released_2022_downloaded_by_karbytes_21february2025.mp3',
